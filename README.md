@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Lucas Augusto Ferreira Dos Santos
+- Matricula: 898603
+- Proposta de projeto escolhida: 5. Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: Site voltado para divulgar conteúdos sobre a natureza, explorando tanto suas paisagens quanto o mundo animal
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](Wireframe.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![alt text](Homepage.png)
